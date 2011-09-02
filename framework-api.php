@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Plugin Framework API
+Plugin Name: Plugin Framework
 Plugin URI: http://memberbuddy.com/plugins/framework-api/
 Description: A shared class of functions to be used as a base for creating other plugins
 Author: Rob Holmes

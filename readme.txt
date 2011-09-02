@@ -1,4 +1,4 @@
-=== Plugin Framework API ===
+=== Plugin Framework ===
 Contributors: MemberBuddy
 Tags: Wordpress
 Requires at least: 3.0
