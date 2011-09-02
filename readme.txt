@@ -8,7 +8,7 @@ Donate link: http://memberbuddy.com/
 Defines an extensible framework for use by other plugins.
 
 == Description ==
-
+*** This Plugin Is In Alpha Development, Not For Production Use Yet **
 Defines an extensible framework for use by other plugins, by keeping the generic code in one place allows for easier maintenance across a large set of complex plugins.
 
 == Installation ==
