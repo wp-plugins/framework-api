@@ -17,11 +17,11 @@ Defines an extensible framework for use by other plugins, by keeping the generic
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
-=Another plugin is asking me to install this one too, what's happening here?=
+= Another plugin is asking me to install this one too, what's happening here? =
 
 Don't worry, everything is all good. The 'Plugin Framework API' keeps all the generic code for defining a plugin and creating options pages in once place where it is far simpler to maintain. This means that the plugins that use this framework then only have to worry about the logic required to provide specific features to that plugin.
 
-=I have the framework plugin installed,but when I updated another plugin an error message now appears?=
+= I have the framework plugin installed,but when I updated another plugin an error message now appears? =
 
 To avoid this happening again, always upgrade the Plugin Framework API before updating any plugins that use it. This means that the framework will always provide the latest features to any new plugin that needs it.
 
