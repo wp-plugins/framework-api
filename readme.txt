@@ -3,7 +3,7 @@ Contributors: MemberBuddy
 Tags: Wordpress
 Requires at least: 3.2.1
 Tested up to: 3.2.1
-Stable Tag: 0.0.2
+Stable Tag: 0.0.3
 Defines an extensible framework for use by other plugins.
 
 == Description ==
